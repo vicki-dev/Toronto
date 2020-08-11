@@ -1,2 +1,0 @@
-# Toronto
-Toronto Neighbourhoods
